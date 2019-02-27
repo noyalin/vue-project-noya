@@ -1,0 +1,12 @@
+#header{
+  height:50px;
+  line-height:50px;
+  background: #002140;
+  color: #fff;
+  padding: 0 10px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  font-size: 30px;
+  z-index: 99;
+}
